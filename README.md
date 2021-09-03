@@ -1,6 +1,6 @@
 - Hi, I’m @JoshuaWasDead
 - My name isn't actually Joshua
-- I'm tryna learn Go atm
+- I'm tryna learn atm
 
 <!---
 JoshuaWasDead/JoshuaWasDead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
